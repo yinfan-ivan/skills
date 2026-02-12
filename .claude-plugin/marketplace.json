@@ -1,7 +1,11 @@
 {
   "name": "yinfan-ivan/skills",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "技能集合",
+  "owner": {
+    "name": "yinfan-ivan",
+    "email": "phataim@gmail.com"
+  },
   "skills": [
     {
       "id": "seedance-ark-experience",
