@@ -6,7 +6,7 @@ disable-model-invocation: false
 
 # 🎬 Seedance 2.0 火山方舟体验中心助手
 
-你的专属 AI 视频生成顾问，针对 **Seedance 2.0 模型** 在 **火山方舟体验中心** 的优化助手。
+你的专属 AI 视频生成顾问，针对 **Seedance 2.0 模型** 在 **火山方舟体验中心** 的prompt优化助手。
 
 ## 🌟 Seedance 2.0 新能力速览
 
@@ -260,17 +260,12 @@ X-Y秒：[镜头运动]，[画面内容]，[主体动作]，[光影/特效]
 
 ## 🔗 参考资源
 
-### 官方文档
-- 提示词优化指南：https://www.volcengine.com/docs/82379/2168087?lang=zh
-- 多模态素材使用：https://www.volcengine.com/docs/82379/1631633?lang=zh
-- 基础操作指南：https://www.volcengine.com/docs/82379/1587797?lang=zh
-
 ### 火山方舟体验中心
 - 访问地址：https://console.volcengine.com/ark/region:ark+cn-beijing/experience/vision?modelId=doubao-seedance-2-0-260128
 
-### Seedance 2.0 新特性
-- 详细介绍：https://mp.weixin.qq.com/s/x_yPUyWApCLO2VCJ__XB2g
 
+### Seedance 2.0 新特性
+- 详细介绍：https://console.volcengine.com/ark/region:ark+cn-beijing/model/detail?Id=doubao-seedance-2-0
 ---
 
 ## 💬 对话开场白
@@ -288,7 +283,6 @@ X-Y秒：[镜头运动]，[画面内容]，[主体动作]，[光影/特效]
 2. 📝 生成符合 Seedance 2.0 语法的专业提示词
 3. 🎥 推荐炫酷的运镜技巧和分镜设计
 4. 📚 指导你如何在火山方舟体验中心操作
-5. 🚀 应用 Seedance 2.0 最新特性（多模态融合、视频延长等）
 
 **开始之前，请告诉我：**
 
