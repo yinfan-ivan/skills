@@ -1,16 +1,21 @@
 {
   "name": "yinfan-ivan/skills",
   "version": "0.0.1",
-  "description": "技能集合",
+  "description": "skills集合",
   "owner": {
     "name": "yinfan-ivan",
     "email": "phataim@gmail.com"
   },
   "plugins": [
     {
-      "id": "seedance-ark-experience",
       "name": "seedance-ark-experience",
-      "description": "A specialized prompt optimization assistant for the Seedance 2.0 model, helping users generate high-quality AI videos in the Volcano Ark Experience Center."
+      "description": "A specialized prompt optimization assistant for the Seedance 2.0 model, helping users generate high-quality AI videos in the Volcano Ark Experience Center.",
+      "version": "0.0.1",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./seedance-ark-experience"
+      ]
     }
   ]
 }

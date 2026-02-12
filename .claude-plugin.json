@@ -6,7 +6,6 @@
   "author": "yinfan-ivan",
   "license": "MIT",
   "type": "skill",
-  "entry": "skill.ts",
   "categories": ["creative", "video", "ai-generation"],
   "tags": ["seedance", "video-generation", "storyboard", "prompt-engineering", "cinematic"],
   "repository": {
