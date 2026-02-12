@@ -1,5 +1,5 @@
 ---
-name: seedance-ark-studio
+name: seedance-ark-experience
 description: 专门针对 Seedance 2.0 模型的提示词优化助手，帮助用户在火山方舟体验中心生成高质量 AI 视频。提供逐步引导式提示词构建、Seedance 2.0 新特性使用指导、火山方舟操作教学。
 disable-model-invocation: false
 ---
