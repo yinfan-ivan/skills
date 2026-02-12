@@ -1,0 +1,20 @@
+{
+  "id": "seedance-ark-experience",
+  "name": "Seedance Ark Experience",
+  "version": "1.0.0",
+  "description": "Convert storyboards to immersive Seedance video prompts with cinematic atmosphere and emotional storytelling",
+  "author": "yinfan-ivan",
+  "license": "MIT",
+  "type": "skill",
+  "entry": "skill.ts",
+  "categories": ["creative", "video", "ai-generation"],
+  "tags": ["seedance", "video-generation", "storyboard", "prompt-engineering", "cinematic"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yinfan-ivan/skills.git",
+    "directory": "seedance-ark-experience"
+  },
+  "compatibility": {
+    "claude-code": ">=0.1.0"
+  }
+}

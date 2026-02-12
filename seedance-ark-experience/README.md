@@ -1,47 +1,47 @@
-# Seedance 2.0 火山方舟体验中心prompt助手-preview
+# Seedance 2.0 Volcano Ark Experience Center Prompt Assistant - Preview
 
-专门针对 Seedance 2.0 模型的提示词优化助手，帮助用户在火山方舟体验中心生成高质量 AI 视频。
+A specialized prompt optimization assistant for the Seedance 2.0 model, helping users generate high-quality AI videos in the Volcano Ark Experience Center.
 
-## 功能特性
+## Features
 
-- 🎯 **逐步引导式提示词构建** - 通过对话逐步完善用户的创意
-- 🎬 **Seedance 2.0 新特性指导** - 充分利用多模态融合、视频延长等新能力
-- 📚 **火山方舟操作教学** - 详细的平台使用指南
-- 🎨 **专业运镜/分镜建议** - 推荐炫酷的运镜技巧和分镜设计
+- 🎯 **Step-by-step prompt construction** - Gradually refine users' ideas through conversation
+- 🎬 **Seedance 2.0 new feature guidance** - Fully utilize multimodal fusion, video extension, and other new capabilities
+- 📚 **Volcano Ark operation tutorials** - Detailed platform usage guides
+- 🎨 **Professional camera movement/storyboard suggestions** - Recommend cool camera techniques and storyboard designs
 
-## 使用方法
+## Usage
 
-在 Claude Code 中调用：
+Invoke in Claude Code:
 
 ```
 /seedance-ark-experience
 ```
 
-或直接描述你的需求：
+Or directly describe your needs:
 
 ```
-我想用 Seedance 2.0 做一个科幻城市飞行的视频
+I want to use Seedance 2.0 to create a sci-fi city flying video
 ```
 
-## 参考资料
+## References
 
-### 火山方舟体验中心
-- 访问地址：https://console.volcengine.com/ark/region:ark+cn-beijing/experience/vision?modelId=doubao-seedance-2-0-260128
+### Volcano Ark Experience Center
+- Access URL: https://console.volcengine.com/ark/region:ark+cn-beijing/experience/vision?modelId=doubao-seedance-2-0-260128
 
 
-### Seedance 2.0 新特性
-- 详细介绍：https://console.volcengine.com/ark/region:ark+cn-beijing/model/detail?Id=doubao-seedance-2-0
+### Seedance 2.0 New Features
+- Detailed introduction: https://console.volcengine.com/ark/region:ark+cn-beijing/model/detail?Id=doubao-seedance-2-0
 
-## 目录结构
+## Directory Structure
 
 ```
 seedance-ark-studio/
-├── SKILL.md          # 核心 skill 定义文件
-└── README.md         # 使用说明
+├── SKILL.md          # Core skill definition file
+└── README.md         # Usage instructions
 ```
 
-## 注意事项
+## Notes
 
-- ⚠️ 暂不支持上传包含写实真人脸部的素材
-- 💡 优先上传对画面或节奏影响最大的素材
-- 🎬 多模态素材多时，务必检查 @对象标注是否清楚
+- ⚠️ Currently does not support uploading materials containing realistic human faces
+- 💡 Prioritize uploading materials that have the greatest impact on the scene or rhythm
+- 🎬 When using multiple multimodal materials, be sure to check if the @object annotations are clear
