@@ -2,7 +2,7 @@
   "id": "seedance-ark-experience",
   "name": "Seedance Ark Experience",
   "version": "1.0.0",
-  "description": "Convert storyboards to immersive Seedance video prompts with cinematic atmosphere and emotional storytelling",
+  "description": "A specialized prompt optimization assistant for the Seedance 2.0 model, helping users generate high-quality AI videos in the Volcano Ark Experience Center.",
   "author": "yinfan-ivan",
   "license": "MIT",
   "type": "skill",
